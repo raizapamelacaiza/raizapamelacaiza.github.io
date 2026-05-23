@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Labor Markets · AI & Employment · Green Jobs <a href='https://urosario.edu.co/'> Universidad del Rosario</a>.
+subtitle: "Labor Markets · AI & Employment · Green Jobs · <a href='https://urosario.edu.co/'>Universidad del Rosario</a>."
 
 profile:
   align: right
