@@ -9,8 +9,6 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
  # more_info: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
     <p> Bogotá, Colombia</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
