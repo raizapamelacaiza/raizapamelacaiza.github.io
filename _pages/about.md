@@ -31,5 +31,4 @@ Welcome!
 I am a researcher at the Regional Competitiveness Studies Center (SCORE) and the Labor Observatory (LaboUR) at Universidad del Rosario, Bogotá. My research focuses on labor markets, with particular interest in AI exposure and occupational change, green jobs and the energy transition, and gender inequality. 
 
 I hold an M.Sc. in Economics from Universidad del Rosario (Colombia) and a B.A. in Economics ad Finance from Escuela Politécnica Nacional (Ecuador).
-If you would like to get in touch, please email me at
-[raizapa.caiza@urosario.edu.co](mailto:raizapa.caiza@urosario.edu.co).
+If you would like to get in touch, please email me at [raizapa.caiza@urosario.edu.co](mailto:raizapa.caiza@urosario.edu.co).
