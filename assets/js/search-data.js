@@ -398,13 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-presentation-at-the-first-congress-of-the-latin-american-association-of-environmental-and-resource-economists-universidad-de-los-andes-bogotá",
+          title: 'Presentation at the First Congress of the Latin American Association of Environmental and...',
           description: "",
           section: "News",},{id: "news-presentation-at-the-eleventh-conference-of-the-society-for-the-study-of-economic-inequality-ecineq-at-the-world-bank-washington-dc",
           title: 'Presentation at the Eleventh Conference of the Society for the Study of Economic...',
