@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-presentation-at-bridging-divides-evidence-based-policies-for-inequality-reduction-and-sustainable-development-agence-française-de-développement-paris",
+          title: 'Presentation at Bridging Divides: Evidence-Based Policies for Inequality Reduction and Sustainable Development, Agence...',
           description: "",
           section: "News",},{id: "news-presentation-at-the-first-congress-of-the-latin-american-association-of-environmental-and-resource-economists-universidad-de-los-andes-bogotá",
           title: 'Presentation at the First Congress of the Latin American Association of Environmental and...',
