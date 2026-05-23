@@ -398,7 +398,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-presentation-at-bridging-divides-evidence-based-policies-for-inequality-reduction-and-sustainable-development-agence-française-de-développement-paris",
+            },},{id: "news-presentation-at-the-second-international-workshop-on-welfare-amp-amp-policy-in-latin-america-and-the-caribbean-waplac-pontificia-universidad-católica-del-ecuador-quito",
+          title: 'Presentation at the Second International Workshop on Welfare &amp;amp;amp; Policy in Latin America...',
+          description: "",
+          section: "News",},{id: "news-honored-to-receive-the-tesis-laureada-thesis-with-distinction-for-my-m-sc-in-economics-at-universidad-del-rosario",
+          title: 'Honored to receive the Tesis Laureada (Thesis with Distinction) for my M.Sc. in...',
+          description: "",
+          section: "News",},{id: "news-presentation-at-bridging-divides-evidence-based-policies-for-inequality-reduction-and-sustainable-development-agence-française-de-développement-paris",
           title: 'Presentation at Bridging Divides: Evidence-Based Policies for Inequality Reduction and Sustainable Development, Agence...',
           description: "",
           section: "News",},{id: "news-presentation-at-the-first-congress-of-the-latin-american-association-of-environmental-and-resource-economists-universidad-de-los-andes-bogotá",
