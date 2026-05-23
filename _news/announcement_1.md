@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-11-01 09:00:00 +0000
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement.
+Presentation at the <a href="https://www.ecineq.org" target="_blank">Eleventh Conference of the Society for the Study of Economic Inequality (ECINEQ)</a> at the World Bank, Washington DC.
