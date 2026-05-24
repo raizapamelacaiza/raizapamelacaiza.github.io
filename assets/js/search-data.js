@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -398,8 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-presentation-at-the-second-international-workshop-on-welfare-amp-amp-policy-in-latin-america-and-the-caribbean-waplac-pontificia-universidad-católica-del-ecuador-quito",
-          title: 'Presentation at the Second International Workshop on Welfare &amp;amp;amp; Policy in Latin America...',
+            },},{id: "news-presentation-at-the-first-congress-of-the-latin-american-association-of-environmental-and-resource-economists-universidad-de-los-andes-bogotá",
+          title: 'Presentation at the First Congress of the Latin American Association of Environmental and...',
+          description: "",
+          section: "News",},{id: "news-presentation-at-the-amp-lt-a-href-https-www-ecineq-org-target-blank-amp-gt-eleventh-conference-of-the-society-for-the-study-of-economic-inequality-ecineq-amp-lt-a-amp-gt-at-the-world-bank-washington-dc",
+          title: 'Presentation at the &amp;amp;lt;a href=”“https://www.ecineq.org”” target=”“_blank”“&amp;amp;gt;Eleventh Conference of the Society for the Study...',
           description: "",
           section: "News",},{id: "news-honored-to-receive-the-tesis-laureada-thesis-with-distinction-for-my-m-sc-in-economics-at-universidad-del-rosario",
           title: 'Honored to receive the Tesis Laureada (Thesis with Distinction) for my M.Sc. in...',
@@ -407,11 +403,8 @@ ninja.data = [{
           section: "News",},{id: "news-presentation-at-bridging-divides-evidence-based-policies-for-inequality-reduction-and-sustainable-development-agence-française-de-développement-paris",
           title: 'Presentation at Bridging Divides: Evidence-Based Policies for Inequality Reduction and Sustainable Development, Agence...',
           description: "",
-          section: "News",},{id: "news-presentation-at-the-first-congress-of-the-latin-american-association-of-environmental-and-resource-economists-universidad-de-los-andes-bogotá",
-          title: 'Presentation at the First Congress of the Latin American Association of Environmental and...',
-          description: "",
-          section: "News",},{id: "news-presentation-at-the-eleventh-conference-of-the-society-for-the-study-of-economic-inequality-ecineq-at-the-world-bank-washington-dc",
-          title: 'Presentation at the Eleventh Conference of the Society for the Study of Economic...',
+          section: "News",},{id: "news-presentation-at-the-second-international-workshop-on-welfare-amp-amp-policy-in-latin-america-and-the-caribbean-waplac-pontificia-universidad-católica-del-ecuador-quito",
+          title: 'Presentation at the Second International Workshop on Welfare &amp;amp;amp; Policy in Latin America...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -458,14 +451,14 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+            },},{id: "teachings-principles-of-microeconomics",
+          title: 'Principles of Microeconomics',
+          description: "An introduction to microeconomic theory covering consumer behavior, producer theory, competitive markets, and imperfect competition (monopoly, oligopoly, monopolistic competition).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+            },},{id: "teachings-introduction-to-economics",
+          title: 'Introduction to Economics',
+          description: "A survey course covering the core principles of economic analysis — microeconomics (consumer and firm behavior, market equilibrium) and macroeconomics (GDP, unemployment, inflation, fiscal and monetary policy).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
