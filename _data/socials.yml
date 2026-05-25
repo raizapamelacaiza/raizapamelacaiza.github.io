@@ -1,7 +1,6 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/01_CV.pdf
 email: raizapamelacaiza@gmail.com
 scholar_userid: AGKd5kgAAAAJ
 linkedin_username: pamela-caiza-guamán
