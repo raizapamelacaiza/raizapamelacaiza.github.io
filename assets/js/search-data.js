@@ -452,11 +452,6 @@ ninja.data = [{
           description: "An introduction to microeconomic theory covering consumer behavior, producer theory, competitive markets, and imperfect competition (monopoly, oligopoly, monopolistic competition).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-economics",
-          title: 'Introduction to Economics',
-          description: "A survey course covering the core principles of economic analysis — microeconomics (consumer and firm behavior, market equilibrium) and macroeconomics (GDP, unemployment, inflation, fiscal and monetary policy).",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-email',
         title: 'email',
