@@ -447,11 +447,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-principles-of-microeconomics",
-          title: 'Principles of Microeconomics',
-          description: "An introduction to microeconomic theory covering consumer behavior, producer theory, competitive markets, and imperfect competition (monopoly, oligopoly, monopolistic competition).",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
             },},{
         id: 'social-email',
         title: 'email',
