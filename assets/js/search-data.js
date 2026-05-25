@@ -487,7 +487,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/pamela-caiza-guamán", "_blank");
+          window.open("https://www.linkedin.com/in/pamela-caiza-guamán-0820092ab", "_blank");
         },
       },{
       id: 'light-theme',
