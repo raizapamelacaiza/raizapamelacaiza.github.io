@@ -30,5 +30,5 @@ nav_order: 4
   <br><br>
 
 - Mar – Apr 2024. _Informality in the Streets_. Maastricht University.
-  - Coordination of theoretical sessions and fieldwork on informality, poverty, and labor inclusion in Bogotá.
+  - Coordination of theoretical sessions and fieldwork on informality, poverty, and labor inclusion in Bogotá
   <br><br>
