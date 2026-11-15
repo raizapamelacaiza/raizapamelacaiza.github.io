@@ -30,6 +30,6 @@ latest_posts:
 Welcome!
 I am a Ph.D. student in Economics at the [University of Turin](https://www.unito.it/) and [Collegio Carlo Alberto](https://www.carloalberto.org/). My research interests lie in labor economics and gender economics.
 
-Before starting my Ph.D., I was a researcher at the [Regional Competitiveness Studies Center (SCORE)](https://urosario.edu.co/score) and the [Labor Observatory (LaboUR)](https://www.labourosario.com/) at Universidad del Rosario, Bogotá. I hold an M.Sc. in Economics (Thesis with Distinction) from Universidad del Rosario (Colombia) and a B.A. in Economic and Finance from Escuela Politécnica Nacional (Ecuador). You can find my CV <a href="assets/pdf/Caiza_CV.pdf" target="_blank">here</a>.
+Before starting my Ph.D., I was a researcher at the [Regional Competitiveness Studies Center (SCORE)](https://urosario.edu.co/score) and the [Labor Observatory (LaboUR)](https://www.labourosario.com/) at Universidad del Rosario, Bogotá. I hold an M.Sc. in Economics (Thesis with Distinction) from Universidad del Rosario (Colombia) and a B.A. in Economic and Finance from Escuela Politécnica Nacional (Ecuador). You can find my CV <a href="assets/pdf/01_CV.pdf" target="_blank">here</a>.
 
 If you would like to get in touch, please email me at [pamela.caiza@carloalberto.org](mailto:pamela.caiza@carloalberto.org).
