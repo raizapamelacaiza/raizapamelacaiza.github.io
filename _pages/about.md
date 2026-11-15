@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "Labor Markets · Gender Economics · Applied Microeconomics <a href='https://urosario.edu.co/'>Universidad del Rosario</a>."
+subtitle: "Labor Markets · Gender Economics · Applied Microeconomics"
 
 profile:
   align: right
