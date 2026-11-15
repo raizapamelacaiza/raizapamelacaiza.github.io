@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "Labor Markets · AI & Employment · Green Jobs · <a href='https://urosario.edu.co/'>Universidad del Rosario</a>."
+subtitle: "Labor Markets · Gender Economics · Applied Microeconomics <a href='https://urosario.edu.co/'>Universidad del Rosario</a>."
 
 profile:
   align: right
@@ -27,10 +27,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Welcome! 
-I am a researcher at the [Regional Competitiveness Studies Center (SCORE)](https://urosario.edu.co/score) and the [Labor Observatory (LaboUR)](https://www.labourosario.com/) at Universidad del Rosario, Bogotá. My research focuses on labor markets, with particular interest in AI exposure, green jobs, energy transition, and gender inequality. 
+Welcome!
+I am a Ph.D. student in Economics at the [University of Turin](https://www.unito.it/) and [Collegio Carlo Alberto](https://www.carloalberto.org/). My research interests lie in labor and gender economics
 
-I hold an M.Sc. in Economics from Universidad del Rosario (Colombia) and a B.A. in Economics ad Finance from Escuela Politécnica Nacional (Ecuador). 
-You can find my CV <a href="assets/pdf/01_CV.pdf" target="_blank">here</a>.
+Before starting my Ph.D., I was a researcher at the [Regional Competitiveness Studies Center (SCORE)](https://urosario.edu.co/score) and the [Labor Observatory (LaboUR)](https://www.labourosario.com/) at Universidad del Rosario, Bogotá. I hold an M.Sc. in Economics (Thesis with Distinction) from Universidad del Rosario (Colombia) and a B.A. in Economic and Financial Engineering from Escuela Politécnica Nacional (Ecuador). You can find my CV <a href="assets/pdf/Caiza_CV.pdf" target="_blank">here</a>.
 
-If you would like to get in touch, please email me at [raizapa.caiza@urosario.edu.co](mailto:raizapa.caiza@urosario.edu.co).
+If you would like to get in touch, please email me at [pamela.caiza@carloalberto.org](mailto:pamela.caiza@carloalberto.org).
