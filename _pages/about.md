@@ -6,7 +6,7 @@ subtitle: "Labor Markets · Gender Economics · Applied Microeconomics"
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: RPC_photo.jpeg
   image_circular: false # crops the image to make it circular
   more_info: #>
     #<p>555 your office number</p>
